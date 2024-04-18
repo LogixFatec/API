@@ -51,6 +51,8 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 > Github;
 > Slack.
 
+# Relatório das Sprints
+
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/04/2024 | concluído|
