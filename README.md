@@ -96,17 +96,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Competências desenvolvidas
 
-## Hard Skill 
-
+## Hard Skill (saber tecnológico)
+Computação;
+Ferramentas tecnológicas (PowerBI, Pacote Office);
+Gestão de Projetos (Jira Software; Análise SWOT);
+Análise de Dados;
+Atendimento ao cliente;
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| PowerBI | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 
 
