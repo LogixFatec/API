@@ -86,22 +86,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
  ## Sprint 4. Entrega do Produto
 - [ ] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
-- [ ] 
 
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
 
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-Computação;
-Ferramentas tecnológicas (PowerBI, Pacote Office);
-Gestão de Projetos (Jira Software; Análise SWOT);
-Análise de Dados;
-Atendimento ao cliente;
+
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -114,7 +106,7 @@ Atendimento ao cliente;
  
 
 
-## Soft Skill 
+## Soft Skill (saber comportamental)
 
 
 | Habilidades | Classificação |
