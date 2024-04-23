@@ -7,6 +7,8 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [Relatórios das Sprints](#Relatório-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -69,31 +71,36 @@ Sprint | Previsão | Status| Histórico|
   
 # Backlog do produto
 
-  ## Sprint 1. Introdução
-- [x] Início do tatamento de dados
-- [x] Identificar os modais utilizados trâmites internacionais de movimentação de cargas e;
-- [x] Cálculo do Valor Agregado
+  ## Sprint 1. Concepção
+- [x] Início do tatamento de dados;
+- [x] Desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
+- [x] Cálculo do Valor Agregado;
+- [x] Estruturação do repositório no Git;
+- [x] Estruturação da plataforma de gerenciamento de tarefas (Jira Sotfware);
+- [ ]  Registro técnico do desenvolvimento do projeto
 
-## Sprint 2. Concepção
-- [ ] Desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
+## Sprint 2. Desenvolvimento
 - [ ] Definição de URF's por região;
 - [ ] Levantamento de valores por modais e URF's;
-- [ ] Atualização de documentação
+- [ ] Identificar os modais utilizados trâmites internacionais de movimentação de cargas e;
+- [ ]  Registro técnico do desenvolvimento do projeto
 
-## Sprint 3. Desenvolvimento do Projeto
+## Sprint 3. Implementação
 - [ ] Desenvolvimento da linha de tendência para as cargas identificadas;
+- [ ]  Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
+- [ ]  Registro técnico do desenvolvimento do projeto
 
- ## Sprint 4. Entrega do Produto
-- [ ] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
 
-
+ ## Sprint 4. Operacionalização
+- [ ] Análise dos resultados gerados pelo projeto;
+- [ ] Correção e melhorias;
+- [ ] Registro técnico do desenvolvimento do projeto.
 
 
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 
-  
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
@@ -102,11 +109,8 @@ Sprint | Previsão | Status| Histórico|
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
- 
-
 
 ## Soft Skill (saber comportamental)
-
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
