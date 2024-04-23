@@ -10,6 +10,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Relatórios das Sprints](#Relatório-das-sprints)
+* [Funcionalidades e Registros das Sprints](#Funcionalidades-e-registros-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -60,7 +61,7 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 * Desenvolver linha de tendência para as cargas identificadas
 * Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
 > Whatsapp;
