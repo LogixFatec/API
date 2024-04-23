@@ -20,6 +20,10 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Geografia do fluxo de exportação de carga e previsões de movimentações de cargas futuras.
 
 # Empresa
+> Logo
+
+
+
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
