@@ -25,12 +25,15 @@ Geografia do fluxo de exportação de carga e previsões de movimentações de c
 ![image](https://github.com/LogixFatec/API/assets/144241887/52d758fe-5147-4373-a3f8-7e78147143b4)
 
 > Missão
+
 Nossa missão é proporcionar serviços logísticos de alta qualidade, garantindo a entrega das cargas de forma rápida e segura, sempre respeitando as normas e regulamentações do setor.
 
 > Visão
+
 É ser reconhecida como uma empresa referência no mercado, oferecendo soluções logísticas eficientes e seguras, contribuindo para o sucesso de nossos clientes e parceiros.
 
 > Valores
+
 Nossos valores estão sempre voltados para a excelência no atendimento ao cliente, o respeito ao meio ambiente e a busca constante pela inovação.
 
 > Organograma
