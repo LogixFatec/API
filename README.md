@@ -1,4 +1,6 @@
-# Aprendizado por Projeto Integrado (API)
+# Aprendizado por Projeto Integrado (API - 2° Semestre)
+
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 
 # Índice
 
@@ -11,7 +13,9 @@
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+
+Geografia do fluxo de exportação de carga e previsões de movimentações de cargas futuras.
+
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
