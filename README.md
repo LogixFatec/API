@@ -24,7 +24,17 @@ Geografia do fluxo de exportação de carga e previsões de movimentações de c
 
 ![image](https://github.com/LogixFatec/API/assets/144241887/52d758fe-5147-4373-a3f8-7e78147143b4)
 
+> Missão
+Nossa missão é proporcionar serviços logísticos de alta qualidade, garantindo a entrega das cargas de forma rápida e segura, sempre respeitando as normas e regulamentações do setor.
+
+> Visão
+É ser reconhecida como uma empresa referência no mercado, oferecendo soluções logísticas eficientes e seguras, contribuindo para o sucesso de nossos clientes e parceiros.
+
+> Valores
+Nossos valores estão sempre voltados para a excelência no atendimento ao cliente, o respeito ao meio ambiente e a busca constante pela inovação.
+
 > Organograma
+
 ![GERENCIAR](https://github.com/LogixFatec/API-II/blob/main/Organograma.png)
 
 # Autores
@@ -34,7 +44,7 @@ Geografia do fluxo de exportação de carga e previsões de movimentações de c
 | Scrum Master  | Caroline Alves |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-alves-04b776264/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs) |
 | Desenvolvedor  | Altamira Talpai |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/altamira-talpai-66361b248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/altamira51) |
 | Desenvolvedor | José Augusto |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-1814131a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joseauguuh) |
-|  Desenvolvedor  | João Pedro |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+|  Desenvolvedor  | João Pedro |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
 |  Desenvolvedor  | Tainara Oliveira |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tainara-oliveira-3176b6279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tianaflor) |
 |  Desenvolvedor  | Kassandra Ruiz |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DarleneLima) | 
 
@@ -80,32 +90,40 @@ Sprint | Previsão | Status| Histórico|
 |Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório]()  |
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório]() |
 
-  
+# Funcionalidades e registros das sprints
+> Interface do Dashboard
+
+![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
+
+> Vídeo do Dashboard
+
+
 # Backlog do produto
 
   ## Sprint 1. Concepção
 - [x] Início do tatamento de dados;
-- [x] Desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
-- [x] Cálculo do Valor Agregado;
+- [x] Criação do desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
+- [x] Identificação de códigos;
 - [x] Estruturação do repositório no Git;
+- [x] Identificar os modais utilizados trâmites internacionais de movimentação de cargas e;
 - [x] Estruturação da plataforma de gerenciamento de tarefas (Jira Sotfware);
-- [ ]  Registro técnico do desenvolvimento do projeto
+- [x]  Registro técnico do desenvolvimento do projeto
 
 ## Sprint 2. Desenvolvimento
+- [ ] Aprimoramento do desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
 - [ ] Definição de URF's por região;
 - [ ] Levantamento de valores por modais e URF's;
-- [ ] Identificar os modais utilizados trâmites internacionais de movimentação de cargas e;
-- [ ]  Registro técnico do desenvolvimento do projeto
+- [ ] Listamento de cargas com maior valor agregado;
+- [ ] Registro técnico do desenvolvimento do projeto
 
 ## Sprint 3. Implementação
 - [ ] Desenvolvimento da linha de tendência para as cargas identificadas;
-- [ ]  Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
-- [ ]  Registro técnico do desenvolvimento do projeto
-
+- [ ] Registro técnico do desenvolvimento do projeto
 
  ## Sprint 4. Operacionalização
 - [ ] Análise dos resultados gerados pelo projeto;
 - [ ] Correção e melhorias;
+- [ ] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
 - [ ] Registro técnico do desenvolvimento do projeto.
 
 
