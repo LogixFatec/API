@@ -1,10 +1,11 @@
 # Aprendizado por Projeto Integrado (API - 2° Semestre)
 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 # Índice
 
 * [Projeto](#projeto-template)
+* [Empresa](#empresa)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
@@ -18,6 +19,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 
 Geografia do fluxo de exportação de carga e previsões de movimentações de cargas futuras.
 
+# Empresa
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
