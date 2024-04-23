@@ -21,8 +21,6 @@ Geografia do fluxo de exportação de carga e previsões de movimentações de c
 
 # Empresa
 > Logo
-
-
 ![image](https://github.com/LogixFatec/API/assets/144241887/52d758fe-5147-4373-a3f8-7e78147143b4)
 
 > Organograma
