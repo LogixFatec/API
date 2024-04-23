@@ -21,9 +21,10 @@ Geografia do fluxo de exportação de carga e previsões de movimentações de c
 
 # Empresa
 > Logo
+![image](https://github.com/LogixFatec/API/assets/144241887/52d758fe-5147-4373-a3f8-7e78147143b4)
 
-
-
+> Organograma
+![GERENCIAR](https://github.com/LogixFatec/API-II/blob/main/Organograma.png)
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -61,6 +62,10 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 > Jira Software;
 > Github;
 > Slack.
+
+- [Apresentação da Sprint](https://www.canva.com/design/DAGCJ0ePdf0/-1vtwXD7KudA6nYjHZYTAA/edit?utm_content=DAGCJ0ePdf0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Jira Software](https://logix0309.atlassian.net/jira/software/projects/API/boards/4/backlog)
+
 
 # Relatório das Sprints
 
