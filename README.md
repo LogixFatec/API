@@ -118,10 +118,12 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Definição de URF's por região;
 - [ ] Levantamento de valores por modais e URF's;
 - [ ] Listamento de cargas com maior valor agregado;
-- [ ] Registro técnico do desenvolvimento do projeto
+- [ ] Registro técnico do desenvolvimento do projeto;
+- [ ] Desenvolvimento da  linha de tendência;
+- [ ] Estudo sobre o modelo de previsão;
 
 ## Sprint 3. Implementação
-- [ ] Desenvolvimento da linha de tendência para as cargas identificadas;
+- [ ] Aprimoramento da linha de tendência para as cargas identificadas;
 - [ ] Registro técnico do desenvolvimento do projeto
 
  ## Sprint 4. Operacionalização
