@@ -97,7 +97,7 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e registros das sprints
 > Interface do Dashboard
 
-![WhatsApp Image 2024-04-08 at 21 18 31 (1)](https://github.com/LogixFatec/API-II/assets/144241887/ca2a1134-b345-4349-9ea6-c4e701463b53)
+![Captura de tela 2024-05-02 175555](https://github.com/LogixFatec/API/assets/144241887/70bb55f8-96a6-48ca-99fe-20e5ec4c11f8)
 
 > Vídeo do Dashboard
 
