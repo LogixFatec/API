@@ -120,7 +120,7 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Listamento de cargas com maior valor agregado;
 - [ ] Registro técnico do desenvolvimento do projeto;
 - [ ] Desenvolvimento da  linha de tendência;
-- [ ] Estudo sobre o modelo de previsão;
+- [ ] Desenvolvimento do modelo de previsão;
 
 ## Sprint 3. Implementação
 - [ ] Aprimoramento da linha de tendência para as cargas identificadas;
