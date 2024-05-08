@@ -87,11 +87,11 @@ Analisar quais os principais modais utilizados para a exportação de produtos d
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 08/04/2024 | concluído|
-|01| 18/04/2024 | concluído | [Ver Relatório](https://github.com/LogixFatec/API-II/files/15023947/Relatorio.API.2024.1.docx) | 
-|02| 09/05/2024  | a fazer |[Ver Relatório]() | 
+|01| 18/04/2024 | concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202024.pdf) | 
+|02| 09/05/2024  | a fazer |[Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202.2.pdf) | 
 |03| 30/05/2024 | a fazer |[Ver Relatório]() | 
 |04| 20/06/2024 | a fazer |[Ver Relatório]()  |
-|Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório]()  |
+|Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório] () |
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório]() |
 
 # Funcionalidades e registros das sprints
@@ -114,22 +114,22 @@ Sprint | Previsão | Status| Histórico|
 - [x]  Registro técnico do desenvolvimento do projeto
 
 ## Sprint 2. Desenvolvimento
-- [ ] Aprimoramento do desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
-- [ ] Definição de URF's por região;
-- [ ] Levantamento de valores por modais e URF's;
-- [ ] Listamento de cargas com maior valor agregado;
-- [ ] Registro técnico do desenvolvimento do projeto;
-- [ ] Desenvolvimento da  linha de tendência;
-- [ ] Desenvolvimento do modelo de previsão;
+- [x] Aprimoramento do desenho da geografia do fluxo de exportação de cargas provenientes do estado de SP;
+- [x] Levantamento de valores por modais e URF's;
+- [x] Registro técnico do desenvolvimento do projeto;
+- [x] Identificação carga, URF e país;
+- [x] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
+- [x] Desenvolver linha de tendência para as cargas identificadas
 
 ## Sprint 3. Implementação
 - [ ] Aprimoramento da linha de tendência para as cargas identificadas;
 - [ ] Registro técnico do desenvolvimento do projeto
+- [ ] Listamento de cargas com maior valor agregado;
+- [ ] Análise de cargas com maior têndencia e previsão de crescimento;
 
  ## Sprint 4. Operacionalização
 - [ ] Análise dos resultados gerados pelo projeto;
 - [ ] Correção e melhorias;
-- [ ] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
 - [ ] Registro técnico do desenvolvimento do projeto.
 
 
