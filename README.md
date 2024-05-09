@@ -94,6 +94,11 @@ Sprint | Previsão | Status| Histórico|
 |Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório] () |
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório]() |
 
+## Cronograma
+Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
+
+#### Cronograma das Sprints[(clique aqui)](https://logix0309.atlassian.net/jira/software/projects/API/boards/4/backlog)
+
 # Funcionalidades e registros das sprints
 > Interface do Dashboard
 
