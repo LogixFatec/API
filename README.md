@@ -89,10 +89,10 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 08/04/2024 | concluído|
 |01| 18/04/2024 | concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202024.pdf) | 
 |02| 09/05/2024  | a fazer |[Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202.2.pdf) | 
-|03| 30/05/2024 | a fazer |[Ver Relatório]() | 
-|04| 20/06/2024 | a fazer |[Ver Relatório]()  |
+|03| 30/05/2024 | a fazer |[Ver Relatório]  () | 
+|04| 20/06/2024 | a fazer |[Ver Relatório] ()  |
 |Relatório do Projeto| 27/06/2024 | a fazer |[Ver Relatório] () |
-|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório]() |
+|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório] () |
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
