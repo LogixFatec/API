@@ -129,11 +129,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
 ## Sprint 3. Implementação
 - [ ] Aprimoramento da linha de tendência para as cargas identificadas;
 - [ ] Registro técnico do desenvolvimento do projeto
-- [ ] Listamento de cargas com maior valor agregado;
+- [ ] Listamento das 150 cargas do modal marítimo do estado de São Paulo;
 - [ ] Análise de cargas com maior têndencia e previsão de crescimento;
 
  ## Sprint 4. Operacionalização
 - [ ] Análise dos resultados gerados pelo projeto;
+- [ ]
 - [ ] Correção e melhorias;
 - [ ] Registro técnico do desenvolvimento do projeto.
 
