@@ -124,17 +124,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
 - [x] Registro técnico do desenvolvimento do projeto;
 - [x] Identificação carga, URF e país;
 - [x] Criação do modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
-- [x] Desenvolver linha de tendência para as cargas identificadas
+- [x] Desenvolver linha de tendência para as cargas identificadas;
 
 ## Sprint 3. Implementação
-- [ ] Aprimoramento da linha de tendência para as cargas identificadas;
-- [ ] Registro técnico do desenvolvimento do projeto
-- [ ] Listamento das 150 cargas do modal marítimo do estado de São Paulo;
-- [ ] Análise de cargas com maior têndencia e previsão de crescimento;
+- [x] Aprimoramento da linha de tendência e previsão para as cargas identificadas;
+- [x] Registro técnico do desenvolvimento do projeto;
+- [x] Criação de uma tabela com as principais 150 cargas mais exportadas pelo modal marítimo do estado de São Paulo;
+- [x] Comparação da tabela das 150 cargas com o modelo de previsão;
 
  ## Sprint 4. Operacionalização
+- [ ] Aprimoramento da tabela;
+- [ ] Exibição do R² e equação no gráfico de linha de têndencia;
 - [ ] Análise dos resultados gerados pelo projeto;
-- [ ]
 - [ ] Correção e melhorias;
 - [ ] Registro técnico do desenvolvimento do projeto.
 
