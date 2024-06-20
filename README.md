@@ -89,8 +89,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 08/04/2024 | concluído|
 |01| 18/04/2024 | concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202024.pdf) | 
 |02| 09/05/2024  | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/Relatorio%20API%202.2.pdf) | 
-|03| 30/05/2024 | a fazer | | 
-|04| 20/06/2024 | a fazer | |
+|03| 30/05/2024 | concluído |[Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/RELAT%C3%93RIO%20DA%203%C2%AA%20SPRINT%20-%20LOGIX.pdf) | 
+|04| 20/06/2024 | a fazer | [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/caroline_silva132_fatec_sp_gov_br/Documents/API%20II/RELAT%C3%93RIO_DA_4%C2%AA_SPRINT_-_LOGIX[1].pdf) |
 |Relatório do Projeto| 27/06/2024 | a fazer ||
 |Feira de Soluções| 27/06/2024 |a fazer | |
 
@@ -133,11 +133,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
 - [x] Comparação da tabela das 150 cargas com o modelo de previsão;
 
  ## Sprint 4. Operacionalização
-- [ ] Aprimoramento da tabela;
-- [ ] Exibição do R² e equação no gráfico de linha de têndencia;
-- [ ] Análise dos resultados gerados pelo projeto;
-- [ ] Correção e melhorias;
-- [ ] Registro técnico do desenvolvimento do projeto.
+- [x] Aprimoramento da tabela;
+- [x] Exibição do R² e equação no gráfico de linha de têndencia;
+- [x] Análise dos resultados gerados pelo projeto;
+- [x] Correção e melhorias;
+- [x] Registro técnico do desenvolvimento do projeto.
 
 
 # Competências desenvolvidas
@@ -146,18 +146,18 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
 
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| PowerBI | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| PowerBI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Análise de Dados | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Atendimento ao Cliente | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Análise de Dados | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Atendimento ao Cliente | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 ## Soft Skill (saber comportamental)
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
