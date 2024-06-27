@@ -102,9 +102,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto.
 # Funcionalidades e registros das sprints
 > Interface do Dashboard
 
-![Captura de tela 2024-05-02 175555](https://github.com/LogixFatec/API/assets/144241887/70bb55f8-96a6-48ca-99fe-20e5ec4c11f8)
+![Captura de tela 2024-06-27 014025](https://github.com/LogixFatec/API/assets/144241887/46b2cf51-d1ba-43d5-ac9e-387710b752f1)
 
-> Vídeo do Dashboard
+![Captura de tela 2024-06-27 014003](https://github.com/LogixFatec/API/assets/144241887/1fd74e16-4ab6-4570-b7cc-7bf946712362)
 
 
 # Backlog do produto
